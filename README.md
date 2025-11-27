@@ -1,3 +1,5 @@
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=thurius&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/thurius)
+
 # 💫 About Me:
 IT student and junior software developer<br><br>I use Arch btw
 
@@ -12,13 +14,3 @@ IT student and junior software developer<br><br>I use Arch btw
 ![](https://github-readme-stats.vercel.app/api?username=VojtechNebes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VojtechNebes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VojtechNebes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!--
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
--->
-
----
-[![](https://visitcount.itsvg.in/api?id=VojtechNebes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
