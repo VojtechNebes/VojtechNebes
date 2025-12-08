@@ -4,7 +4,7 @@
 IT student and junior software developer<br><br>I use Arch btw
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord User](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/775389642689085471)
 [![Instagram User](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/vojta_nebes)
 
