@@ -30,6 +30,6 @@ I’m a junior software developer primarily focused on Python, with an interest 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=%23ffffff&logoSize=auto&color=%235865f2)](https://discord.com/users/775389642689085471)
 
-<br>
+### Support me:
 
 [![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=thurius&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/thurius)
