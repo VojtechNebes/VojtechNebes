@@ -33,4 +33,4 @@ I’m a junior software developer primarily focused on Python, with an interest 
 
 ### Support me:
 
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=thurius&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/thurius)
+<a href="https://www.buymeacoffee.com/thurius" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 3rem !important;width: 10.85rem !important;"></a>
