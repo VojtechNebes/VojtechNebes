@@ -38,6 +38,6 @@ I’m a junior software developer primarily focused on Python, with an interest 
 ### My ZSH prompt
 ```bash
 PROMPT="
-%F{black}%B┌──[%b%F{green}%n%f@%F{blue}%m%F{black}%B]%b%f (%F{blue}%B\$(pwd -P | sed 's|$HOME|~|')%b%f)
+%F{black}%B┌──[%b%F{green}%n%f@%F{blue}%m%F{black}%B]%b%f (%F{blue}%B%~%b%f)
 %F{black}%B└────$%b%f "
 ```
