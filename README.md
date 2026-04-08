@@ -34,3 +34,10 @@ I’m a junior software developer primarily focused on Python, with an interest 
 ### Support me:
 
 <a href="https://www.buymeacoffee.com/thurius" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 3rem !important;width: 10.85rem !important;"></a>
+
+### My ZSH prompt
+```bash
+PROMPT="
+%F{black}%B┌──[%b%F{green}%n%f@%F{blue}%m%F{black}%B]%b%f (%F{blue}%B\$(pwd -P | sed 's|$HOME|~|')%b%f)
+%F{black}%B└────$%b%f "
+```
